@@ -9,8 +9,8 @@ locale: en-US
 title: "Life Sciences Software"
 description: "Scientific Software Fred Hutch"
 url                      : "https://fredhutch.github.io"
-# baseurl                  : "/easybuild-life-sciences"
-baseurl                  : "/"
+baseurl                  : "/easybuild-life-sciences"
+# baseurl                  : "/"
 repository               : "FredHutch/easybuild-life-sciences"
 
 
