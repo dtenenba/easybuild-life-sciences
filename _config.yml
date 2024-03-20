@@ -9,7 +9,8 @@ locale: en-US
 title: "Life Sciences Software"
 description: "Scientific Software Fred Hutch"
 url                      : "https://fredhutch.github.io"
-baseurl                  : "/easybuild-life-sciences"
+# baseurl                  : "/easybuild-life-sciences"
+baseurl                  : "/"
 repository               : "FredHutch/easybuild-life-sciences"
 
 
@@ -159,6 +160,7 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-spaceship
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
