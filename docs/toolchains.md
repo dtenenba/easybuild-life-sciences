@@ -49,7 +49,7 @@ Note: because there have been a few changes in toolchains, there are notes below
 that explain the differences between the generations going back to the `2020b` version of the `foss` and `intel` toolchains.
 
 <!-- https://github.com/easybuilders/easybuild-docs/blob/03891cbe6404a7fa237f289c99a660cfac5d7a73/docs/common-toolchains.md?plain=1#L9 -->
-### Newest generations (`2023a` and later):
+### Newest generations (`2023a` and later): 
 
 ```mermaid!
 graph LR
